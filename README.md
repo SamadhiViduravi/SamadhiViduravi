@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samadhi Viduravi Dissanayake  
 - 👀 I’m interested in **Software Engineering, Machine Learning, and Robotics**  
-- 🌱 I’m currently learning **Data Mining, Machine Learning, and Server-side Web Development**  
+- 🌱 I’m currently learning **Data Mining, Machine Learning, and Algorithms **  
 - 💞️ I’m looking to collaborate on **open-source projects related to AI and web development**  
 - 📫 How to reach me:  
   - Email: s.viduravee@gamil.com  
