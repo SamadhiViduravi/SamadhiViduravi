@@ -7,7 +7,7 @@
   - LinkedIn: www.linkedin.com/in/samadhi-dissanayake-3682a63  
   - GitHub: https://github.com/SamadhiViduravi 
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love motorcycles 🏍️, and I’m currently modifying my Honda Hornet 250!**  
+- ⚡ Fun fact: **I love motorcycles 🏍️  
 
 <!---
 SamadhiViduravi/SamadhiViduravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
