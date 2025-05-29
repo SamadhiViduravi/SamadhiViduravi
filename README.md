@@ -101,7 +101,7 @@
 
 <div align="center">
 
-### 💼 **Ready to contribute to IFS's mission of delivering exceptional enterprise software solutions!**
+
 
 *"Building tomorrow's enterprise applications, one commit at a time"* 🚀
 
