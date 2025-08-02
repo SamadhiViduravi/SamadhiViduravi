@@ -15,7 +15,13 @@
 - 🤝 Comfortable working in **agile** and team-based environments  
 
 ---
+## 📌 Pinned Projects
 
+### 🧑‍💻 Thudawa Website  
+A responsive and modern website for a children's home, built with React and TailwindCSS.  
+[![Repo](https://github.com/Dulan19/Thudawa_Website)
+
+---
 ## 🛠️ Tech Stack
 
 ### **Backend**
