@@ -1,9 +1,5 @@
 # 👋 Hi, I'm **Samadhi Viduravi Dissanayake**
 
-## 🎯 Aspiring Full-Stack Enterprise Software Engineer
-
-> *Focused on building clean, scalable, enterprise-grade applications using Java, Spring Boot, Angular, and PostgreSQL.*
-
 ---
 
 ### 🚀 About Me
@@ -101,6 +97,5 @@ A fullstack Service Request Management System that displays enterprise software 
 
 *"Building tomorrow's enterprise software — one commit at a time."* 💻🔥
 
-![Profile Views](https://komarev.com/ghpvc/?username=SamadhiViduravi&color=blueviolet&style=for-the-badge)
 
 </div>
