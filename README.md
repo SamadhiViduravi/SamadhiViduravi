@@ -20,7 +20,7 @@
 - **Currently Learning:** Large Language Model (LLM) Fine-tuning & Agentic AI
 
 
-## 📌 Pinned Projects
+ ##📌 Pinned Projects
 
 ### 🧑‍💻 Thudawa Website  
 A responsive and modern website for a children's home, built with React.  
@@ -37,8 +37,6 @@ A fullstack Service Request Management System that displays enterprise software 
 ### 🧑‍💻 QuickMeet
 ![Repo]([https://github.com/SamadhiViduravi/Service-Request-Management-System](https://github.com/SamadhiViduravi/QuickMeet))
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 ## 🛠️ Experienced Tech Stack
@@ -69,11 +67,7 @@ A fullstack Service Request Management System that displays enterprise software 
 
 ---
 
-## 🎯 Career Objective
 
-> *Seeking an internship opportunity where I can contribute to the development of enterprise-grade applications while continuing to grow my skills in backend systems, full-stack architecture, and modern software engineering practices.*
-
----
 
 ## 📈 GitHub Stats
 
@@ -85,15 +79,6 @@ A fullstack Service Request Management System that displays enterprise software 
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SamadhiViduravi&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
