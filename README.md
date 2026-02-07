@@ -4,8 +4,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Internship-SLT%20AI%20Engineering-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Dream%20Bike--orange?style=for-the-badge&logo=bmw">
-</p>  
----
+</p> 
 ### 🌐 My Portfolio
 <div align="center">
   <a href="https://www.slmaari.me/">
@@ -13,6 +12,7 @@
   </a>
   <p><i>Click the window to explore my work live!</i></p>
 </div>
+---
 ## 📌 Pinned Projects
 
 ### 🧑‍💻 Thudawa Website  
