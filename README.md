@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Internship-SLT%20AI%20Engineering-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Dream%20Bike-BMW%20S1000RR-orange?style=for-the-badge&logo=bmw">
+  <img src="https://img.shields.io/badge/Dream%20Bike--orange?style=for-the-badge&logo=bmw">
 </p>  
 
 ---
