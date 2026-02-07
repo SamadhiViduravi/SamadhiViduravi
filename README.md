@@ -1,14 +1,10 @@
-# 👋 Hi, I'm **Samadhi Viduravi Dissanayake**
+# 👋 Hi, I'm Samadhi Viduravi Dissanayake
+### AI Engineering Intern | Software Engineering Student | Aspiring AI CEO
 
----
-
-### 🚀 About Me
-
-- 🎓 **Software Engineering Undergraduate**  
-- 💼 Targeting internship roles in **enterprise software development**  
-- 💻 Building real-world apps using **Java + Spring Boot (Backend)** and **Angular (Frontend)**  
-- 🧠 Passionate about clean code, backend architecture, and scalable design  
-- 🤝 Comfortable working in **agile** and team-based environments  
+<p align="left">
+  <img src="https://img.shields.io/badge/Internship-SLT%20AI%20Engineering-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Dream%20Bike-BMW%20S1000RR-orange?style=for-the-badge&logo=bmw">
+</p>  
 
 ---
 ## 📌 Pinned Projects
