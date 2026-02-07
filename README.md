@@ -5,13 +5,6 @@
   <img src="https://img.shields.io/badge/Internship-SLT%20AI%20Engineering-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Dream%20Bike--orange?style=for-the-badge&logo=bmw">
 </p> 
-### 🌐 My Portfolio
-<div align="center">
-  <a href="https://www.slmaari.me/">
-    <img src="path-to-your-framed-screenshot-or-gif.gif" width="600" alt="Portfolio Preview">
-  </a>
-  <p><i>Click the window to explore my work live!</i></p>
-</div>
 ---
 ## 📌 Pinned Projects
 
