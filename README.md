@@ -8,7 +8,7 @@
 ### 🌐 My Portfolio
 <div align="center">
   <a href="https://www.slmaari.me/">
-    <img src="path-to-your-framed-screenshot-or-gif.gif" width="600" alt="Portfolio Preview">
+    <img src="https://2rmy9dyehpe4qekh.public.blob.vercel-storage.com/ppp.gif" width="600" alt="Portfolio Preview">
   </a>
   <p><i>Click the window to explore my work live!</i></p>
 </div>
