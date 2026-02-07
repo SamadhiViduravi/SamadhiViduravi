@@ -5,7 +5,19 @@
   <img src="https://img.shields.io/badge/Internship-SLT%20AI%20Engineering-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Dream%20Bike--orange?style=for-the-badge&logo=bmw">
 </p> 
----
+### 🌐 My Portfolio
+<div align="center">
+  <a href="https://www.slmaari.me/">
+    <img src="path-to-your-framed-screenshot-or-gif.gif" width="600" alt="Portfolio Preview">
+  </a>
+  <p><i>Click the window to explore my work live!</i></p>
+</div>
+
+### 🧠 AI & Machine Learning Tech Stack
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **Tools:** Jupyter, HuggingFace, OpenCV
+- **Engineering:** Python (Numpy, Pandas), SQL, MLOps
+- **Currently Learning:** Large Language Model (LLM) Fine-tuning & Agentic AI
 
 
 ## 📌 Pinned Projects
@@ -24,6 +36,10 @@ A fullstack Service Request Management System that displays enterprise software 
 
 ### 🧑‍💻 QuickMeet
 ![Repo]([https://github.com/SamadhiViduravi/Service-Request-Management-System](https://github.com/SamadhiViduravi/QuickMeet))
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
 ---
 ## 🛠️ Experienced Tech Stack
 #Most Used
