@@ -37,6 +37,20 @@
 
 ---
 
+## 🌐 Full-Stack & Mobile Development
+
+<div align="center">
+
+| 🏗️ Frontend | 🔙 Backend | 📱 Mobile | ☁️ Database & Cloud |
+|:---:|:---:|:---:|:---:|
+| React.js | Node.js (Express) | Flutter (Dart) | MySQL |
+| Next.js | Spring Boot (Java) | Firebase | MongoDB |
+| Tailwind CSS | NestJS | REST APIs | Firebase Realtime DB |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
