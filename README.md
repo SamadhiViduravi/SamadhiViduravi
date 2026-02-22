@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-SLT%20AI%20Engineering-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Dream%20Bike--orange?style=for-the-badge&logo=bmw">
+  <img src="https://img.shields.io/badge/--orange?style=for-the-badge&logo=bmw">
 </p>
 
 ---
