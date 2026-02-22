@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Samadhi Viduravi Dissanayake
 
-### 🤖 AI Engineering Intern | Software Engineering Student | Aspiring AI CEO
+### 🤖 Building AI Engineering Path | Software Engineering Student | Aspiring ML Engineer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-SLT%20AI%20Engineering-blue?style=for-the-badge">
